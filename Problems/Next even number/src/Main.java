@@ -5,5 +5,7 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         // put your code here
         int a = scanner.nextInt();
+        if (a % 2 == 0)
+            System.out.println(a + 2);
     }
 }
