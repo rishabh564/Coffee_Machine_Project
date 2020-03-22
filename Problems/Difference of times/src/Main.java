@@ -12,7 +12,8 @@ class Main {
         int s2 = scanner.nextInt();
         int sec1 = (h2 - h1) * 3600;
         int sec2 = (m2 - m1) * 60;
-        int sec = (s2 - s1);
+        int sec3 = (s2 - s1);
+        System.out.println(sec1 + sec2 + sec3);
 
     }
 }
