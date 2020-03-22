@@ -12,5 +12,6 @@ class Main {
             reverse = reverse * 10 + temp;
             a = a / 10;
         }
+        System.out.println(reverse);
     }
 }
