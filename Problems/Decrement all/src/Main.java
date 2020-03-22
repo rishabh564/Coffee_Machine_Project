@@ -9,6 +9,10 @@ class Main {
         int b = sc.nextInt();
         int c = sc.nextInt();
         int d = sc.nextInt();
-
+        int q = a - 1;
+        int w = b - 1;
+        int e = c - 1;
+        int r = d - 1;
+        System.out.println(q + " " + w + " " + e + " " + r);
     }
 }
