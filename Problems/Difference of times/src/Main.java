@@ -6,5 +6,6 @@ class Main {
         // put your code here
         int h1 = scanner.nextInt();
         int m1 = scanner.nextInt();
+        int s1 = scanner.nextInt();
     }
 }
