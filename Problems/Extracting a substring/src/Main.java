@@ -6,7 +6,8 @@ class Main {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         int a = sc.nextInt();
-
+        int b = sc.nextInt();
+        System.out.println(s.substring(a, (b + 1)));
 
     }
 }
