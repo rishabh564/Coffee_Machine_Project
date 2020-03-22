@@ -24,6 +24,8 @@
       <module name="Problems-Printing_only_the_longest_line_test" target="11" />
       <module name="Problems-Replacing_'a'_with_'b'_main" target="11" />
       <module name="Problems-Replacing_'a'_with_'b'_test" target="11" />
+      <module name="Problems-Snail_main" target="11" />
+      <module name="Problems-Snail_test" target="11" />
       <module name="Problems-The_countdown_main" target="11" />
       <module name="Problems-The_countdown_test" target="11" />
       <module name="Problems-The_forgotten_comments_main" target="11" />
