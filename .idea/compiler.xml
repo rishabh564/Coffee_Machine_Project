@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Coffee_Machine-task_main" target="11" />
       <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Assignments__1__main" target="11" />
+      <module name="Problems-Assignments__1__test" target="11" />
       <module name="Problems-Assignments_main" target="11" />
       <module name="Problems-Assignments_test" target="11" />
       <module name="Problems-Fill_the_declaration_main" target="11" />
