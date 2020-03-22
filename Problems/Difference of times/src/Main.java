@@ -11,6 +11,7 @@ class Main {
         int m2 = scanner.nextInt();
         int s2 = scanner.nextInt();
         int sec1 = (h2 - h1) * 3600;
+        int sec2 = (m2 - m1) * 60;
 
 
     }
