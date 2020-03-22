@@ -9,6 +9,5 @@ class Main {
             System.out.println(a + 2);
         else
             System.out.println(a + 1);
-
     }
 }
