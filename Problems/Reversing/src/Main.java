@@ -7,5 +7,8 @@ class Main {
         int a = scanner.nextInt();
         int temp = 0;
         while (a > 0) {
+            temp = a % 10;
+
         }
     }
+}
