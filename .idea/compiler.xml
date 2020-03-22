@@ -42,6 +42,8 @@
       <module name="Problems-The_forgotten_comments_test" target="11" />
       <module name="Problems-The_number_of_tens_main" target="11" />
       <module name="Problems-The_number_of_tens_test" target="11" />
+      <module name="Problems-The_sum_of_digits_main" target="11" />
+      <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems-Uncomment_a_line_main" target="11" />
       <module name="Problems-Uncomment_a_line_test" target="11" />
       <module name="util_main" target="11" />
