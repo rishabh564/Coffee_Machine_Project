@@ -7,7 +7,10 @@ class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = scanner.nextInt();
-        System.out.println((a + b + c) / 2);
-
+        int sum = (a + b + c);
+        if (sum % 2 == 0)
+            System.out.println(sum / 2);
+        else
+            System.out.println((sum / 2) + 1);
     }
 }

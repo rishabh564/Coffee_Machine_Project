@@ -10,6 +10,8 @@
       <module name="Problems-Assignments__1__test" target="11" />
       <module name="Problems-Assignments_main" target="11" />
       <module name="Problems-Assignments_test" target="11" />
+      <module name="Problems-Decrement_all_main" target="11" />
+      <module name="Problems-Decrement_all_test" target="11" />
       <module name="Problems-Desks_main" target="11" />
       <module name="Problems-Desks_test" target="11" />
       <module name="Problems-Difference_of_times_main" target="11" />
