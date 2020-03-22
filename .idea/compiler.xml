@@ -28,6 +28,8 @@
       <module name="Problems-Invalid_declaration_of_variables_test" target="11" />
       <module name="Problems-Javadoc_comment_main" target="11" />
       <module name="Problems-Javadoc_comment_test" target="11" />
+      <module name="Problems-Next_even_number_main" target="11" />
+      <module name="Problems-Next_even_number_test" target="11" />
       <module name="Problems-Printing_only_the_longest_line_main" target="11" />
       <module name="Problems-Printing_only_the_longest_line_test" target="11" />
       <module name="Problems-Reading_integer_numbers_main" target="11" />
