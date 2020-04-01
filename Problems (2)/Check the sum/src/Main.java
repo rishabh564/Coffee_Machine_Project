@@ -16,6 +16,5 @@ class Main {
             System.out.println(true);
         else
             System.out.println(false);
-
     }
 }
