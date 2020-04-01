@@ -8,6 +8,6 @@ public class CoffeeMachine {
         int a = sc.nextInt();
 
         System.out.println("Write how many cups of coffee you will need:");
-
+        System.out.println("> " + a);
     }
 }
