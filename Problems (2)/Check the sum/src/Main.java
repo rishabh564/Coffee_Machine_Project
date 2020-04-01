@@ -10,6 +10,8 @@ class Main {
         int c = sc.nextInt();
         if ((a + b) == 20)
             System.out.println(true);
+        else if ((b + c) == 20)
+            System.out.println(true);
 
 
     }
