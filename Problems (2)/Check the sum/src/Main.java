@@ -14,7 +14,8 @@ class Main {
             System.out.println(true);
         else if ((a + c) == 20)
             System.out.println(true);
-
+        else
+            System.out.println(false);
 
     }
 }
