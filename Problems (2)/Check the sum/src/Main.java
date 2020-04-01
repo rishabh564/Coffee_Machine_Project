@@ -8,6 +8,8 @@ class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
+        if ((a + b) == 20)
+            System.out.println(true);
 
 
     }
