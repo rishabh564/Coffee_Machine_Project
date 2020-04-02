@@ -9,6 +9,15 @@ class Main {
         int c = sc.nextInt();
         int n = 0;
 
+        if (a > 0 && (b == 0 && c == 0))
+            System.out.println(true);
+        else if (a > 0 && (b < 0 && c == 0))
+            System.out.println(true);
+        else if (a > 0 && (c < 0 && b == 0))
+            System.out.println(true);
+        else if (a > 0 && (c < 0 && b < 0))
+            System.out.println(true);
+
 
     }
 }
