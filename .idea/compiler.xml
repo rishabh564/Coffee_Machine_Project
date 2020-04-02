@@ -68,6 +68,8 @@
       <module name="Problems__3_-Check_the_sum_test" target="11" />
       <module name="Problems__3_-Is_between_main" target="11" />
       <module name="Problems__3_-Is_between_test" target="11" />
+      <module name="Problems__4_-Check_the_value_main" target="11" />
+      <module name="Problems__4_-Check_the_value_test" target="11" />
       <module name="Problems__4_-Is_between_main" target="11" />
       <module name="Problems__4_-Is_between_test" target="11" />
       <module name="Problems__5_-Is_between_main" target="11" />
