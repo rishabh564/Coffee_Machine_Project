@@ -17,6 +17,14 @@ class Main {
             System.out.println(true);
         else if (a > 0 && (c < 0 && b < 0))
             System.out.println(true);
+        else if (b > 0 && (a == 0 && c == 0))
+            System.out.println(true);
+        else if (b > 0 && (a < 0 && c == 0))
+            System.out.println(true);
+        else if (b > 0 && (c < 0 && a == 0))
+            System.out.println(true);
+        else if (b > 0 && (c < 0 && a < 0))
+            System.out.println(true);
 
 
     }
