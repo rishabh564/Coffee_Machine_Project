@@ -7,6 +7,7 @@ class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-
+        boolean rezult = (a != b) && (b != c) && (a != c);
+        System.out.println(rezult);
     }
 }
