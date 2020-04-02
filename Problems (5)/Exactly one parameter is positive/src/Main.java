@@ -33,5 +33,7 @@ class Main {
             System.out.println(true);
         else if (c > 0 && (b < 0 && a < 0))
             System.out.println(true);
+        else
+            System.out.println(false);
     }
 }
