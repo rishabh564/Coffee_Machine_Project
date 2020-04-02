@@ -66,6 +66,12 @@
       <module name="Problems__2_-Check_the_sum_test" target="11" />
       <module name="Problems__3_-Check_the_sum_main" target="11" />
       <module name="Problems__3_-Check_the_sum_test" target="11" />
+      <module name="Problems__3_-Is_between_main" target="11" />
+      <module name="Problems__3_-Is_between_test" target="11" />
+      <module name="Problems__4_-Is_between_main" target="11" />
+      <module name="Problems__4_-Is_between_test" target="11" />
+      <module name="Problems__5_-Is_between_main" target="11" />
+      <module name="Problems__5_-Is_between_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
