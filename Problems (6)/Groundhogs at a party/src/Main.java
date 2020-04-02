@@ -10,7 +10,11 @@ class Main {
                 System.out.println(true);
             else
                 System.out.println(false);
+        } else {
+            if (a >= 15 && a <= 25)
+                System.out.println(true);
+            else
+                System.out.println(false);
         }
-
     }
 }
