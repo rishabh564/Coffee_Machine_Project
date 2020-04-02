@@ -8,6 +8,15 @@ class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
+        int n = 0;
+        if (b < c)
+            n = 1;
+        if (n == 1) {
+            if ((a >= b) && (a <= c))
+                System.out.println(true);
+            else
+                System.out.println(false);
+        }
 
     }
 }
