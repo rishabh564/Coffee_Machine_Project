@@ -16,7 +16,11 @@ class Main {
                 System.out.println(true);
             else
                 System.out.println(false);
+        } else {
+            if ((a <= b) && (a >= c))
+                System.out.println(true);
+            else
+                System.out.println(false);
         }
-
     }
 }
