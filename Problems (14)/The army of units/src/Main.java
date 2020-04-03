@@ -14,6 +14,5 @@ class Main {
             System.out.println("zounds");
         else
             System.out.println("legion");
-
     }
 }
