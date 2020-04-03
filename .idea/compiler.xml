@@ -68,6 +68,8 @@
       <module name="Problems__12_-Symmetrical_number_test" target="11" />
       <module name="Problems__13_-Leap_year_main" target="11" />
       <module name="Problems__13_-Leap_year_test" target="11" />
+      <module name="Problems__14_-The_army_of_units_main" target="11" />
+      <module name="Problems__14_-The_army_of_units_test" target="11" />
       <module name="Problems__1_-Check_the_value_main" target="11" />
       <module name="Problems__1_-Check_the_value_test" target="11" />
       <module name="Problems__2_-Check_the_sum_main" target="11" />
