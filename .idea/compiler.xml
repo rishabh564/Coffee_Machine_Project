@@ -82,6 +82,8 @@
       <module name="Problems__7_-Check_the_given_numbers_are_different_test" target="11" />
       <module name="Problems__8_-Boys_in_a_sport_class_main" target="11" />
       <module name="Problems__8_-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems__9_-Healthy_sleep_main" target="11" />
+      <module name="Problems__9_-Healthy_sleep_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
