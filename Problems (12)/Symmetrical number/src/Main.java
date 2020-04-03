@@ -14,6 +14,7 @@ class Main {
         }
         if (k == r)
             System.out.println(1);
-
+        else
+            System.out.println(37);
     }
 }
