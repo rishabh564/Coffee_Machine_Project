@@ -12,7 +12,8 @@ class Main {
             System.out.println("throng");
         else if (a >= 250 && a <= 999)
             System.out.println("zounds");
-
+        else
+            System.out.println("legion");
 
     }
 }
