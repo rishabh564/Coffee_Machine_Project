@@ -12,7 +12,20 @@ class Main {
             System.out.println("YES");
         else if ((a + c) > b)
             System.out.println("YES");
-
+        else if ((a + b) == c)
+            System.out.println("NO");
+        else if ((b + c) == a)
+            System.out.println("NO");
+        else if ((a + c) == b)
+            System.out.println("NO");
+        else if ((a + b) < c)
+            System.out.println("NO");
+        else if ((b + c) < a)
+            System.out.println("NO");
+        else if ((a + c) < b)
+            System.out.println("NO");
+        else
+            System.out.println("NO");
 
     }
 }
