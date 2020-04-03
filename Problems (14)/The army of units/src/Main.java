@@ -6,6 +6,7 @@ class Main {
         int a = sc.nextInt();
         if (a < 1)
             System.out.println("no army");
-
+        else if (a >= 1 && a <= 19)
+            System.out.println("pack");
     }
 }
