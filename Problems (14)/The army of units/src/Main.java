@@ -10,6 +10,8 @@ class Main {
             System.out.println("pack");
         else if (a >= 20 && a <= 249)
             System.out.println("throng");
+        else if (a >= 250 && a <= 999)
+            System.out.println("zounds");
 
 
     }
