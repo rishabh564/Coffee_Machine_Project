@@ -11,5 +11,8 @@ class Main {
             System.out.println("Deficiency");
         if (h > b)
             System.out.println("Excess");
+        if (h >= a && h <= b)
+            System.out.println("Normal");
+
     }
 }
