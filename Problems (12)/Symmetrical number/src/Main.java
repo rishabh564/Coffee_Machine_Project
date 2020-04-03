@@ -12,6 +12,8 @@ class Main {
             r = (r * 10) + n;
             a = a / 10;
         }
+        if (k == r)
+            System.out.println(1);
 
     }
 }
