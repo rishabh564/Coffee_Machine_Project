@@ -60,6 +60,10 @@
       <module name="Problems-The_sum_of_digits_test" target="11" />
       <module name="Problems-Uncomment_a_line_main" target="11" />
       <module name="Problems-Uncomment_a_line_test" target="11" />
+      <module name="Problems__10_-Triangle_main" target="11" />
+      <module name="Problems__10_-Triangle_test" target="11" />
+      <module name="Problems__11_-Interval_main" target="11" />
+      <module name="Problems__11_-Interval_test" target="11" />
       <module name="Problems__1_-Check_the_value_main" target="11" />
       <module name="Problems__1_-Check_the_value_test" target="11" />
       <module name="Problems__2_-Check_the_sum_main" target="11" />
