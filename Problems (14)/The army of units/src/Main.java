@@ -8,5 +8,9 @@ class Main {
             System.out.println("no army");
         else if (a >= 1 && a <= 19)
             System.out.println("pack");
+        else if (a >= 20 && a <= 249)
+            System.out.println("throng");
+
+
     }
 }
