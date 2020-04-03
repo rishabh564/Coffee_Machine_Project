@@ -9,6 +9,7 @@ class Main {
         int h = sc.nextInt();
         if (h < a)
             System.out.println("Deficiency");
-
+        if (h > b)
+            System.out.println("Excess");
     }
 }
