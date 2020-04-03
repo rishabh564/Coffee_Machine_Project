@@ -7,6 +7,8 @@ class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int h = sc.nextInt();
+        if (h < a)
+            System.out.println("Deficiency");
 
     }
 }
